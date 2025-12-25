@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mie-ganyang.vercel.app/sitemap-index.xml
